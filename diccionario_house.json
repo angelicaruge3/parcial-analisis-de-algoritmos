@@ -1,0 +1,34 @@
+{
+    "casa_stark": {
+      "padre": "Rickard",
+      "hijos": [
+        "Benjen",
+        "Brandon",
+        "Lyanna",
+        "Wylla",
+        "Eddard"
+      ],
+      "pareja_wylla": "Jon Snow",
+      "perros": {
+        "Wylla": "Ghost"
+      }
+    },
+    "casa_tully": {
+      "padre": "Hoster",
+      "hijos": [
+        "Catelyn",
+        "Lysa",
+        "Edmure"
+      ],
+      "pareja_catelyn": "Eddard",
+      "pareja_lysa": "Robb",
+      "perros": {
+        "Robb": "Grey Wind",
+        "Sansa": "Lady",
+        "Arya": "Nymeria",
+        "Bran": "Summer",
+        "Rickon": "Shaggydog"
+      }
+    }
+  }
+  

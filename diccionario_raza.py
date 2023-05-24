@@ -7,30 +7,30 @@ raza ={
   "humanos":[
       { "guerrero":
           {
-                "vida": "3",
-                "id": "123", 
-                "ataque": "40", 
-                "defenza": "24", 
+                "vida": 3,
+                "id": 123, 
+                "ataque": 40, 
+                "defenza": 24, 
                 "poder_magico": "volar" 
           }
       },
                
        {"jinete":
            {
-                  "vida":"3", 
-                  "id": "124", 
-                  "ataque": "50", 
-                  "defenza": "50", 
+                  "vida": 3, 
+                  "id": 124, 
+                  "ataque": 50, 
+                  "defenza": 50, 
                   "poder_magico": "nadar" 
             }
         },        
         
         {"mago":
             {
-                   "vida": "3", 
-                   "id": "125", 
-                   "ataque": "60", 
-                   "defenza": "80", 
+                   "vida": 3, 
+                   "id": 125, 
+                   "ataque": 60, 
+                   "defenza": 80, 
                    "poder_magico": "camuflaje"
             }
             
@@ -38,10 +38,10 @@ raza ={
         
         {"recolector":
             {
-                   "vida": "3", 
-                   "id": "126", 
-                   "ataque": "90", 
-                   "defenza": "70", 
+                   "vida": 3, 
+                   "id": 126, 
+                   "ataque": 90, 
+                   "defenza": 70, 
                    "poder_magico": "camuflaje"
             }
         },
